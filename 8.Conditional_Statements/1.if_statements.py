@@ -80,6 +80,3 @@ if num % 3==0 and num % 5 ==0:
 year=2024
 if year%4==0 and (year%400==0 or year%100 !=0):
     print(f'{year} is leap year')
-
-
-#13.
