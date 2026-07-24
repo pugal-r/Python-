@@ -62,4 +62,17 @@ else:
     print("Consonent")
 
 
-#6.
+#6.WAP to check the number is divisible by 3 or not 
+num=28
+if num % 3 ==0:
+    print(f"{num} is divisible by 3")
+else:
+    print(f"{num} not divisible by 3")
+
+
+#7.WAP to check the number is divisible by 5 or not
+n=29
+if n % 5 ==0:
+    print(f"{n} is divisible by 5")
+else:
+    print(f"{n} is not divisible by 5")
